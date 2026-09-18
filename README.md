@@ -47,4 +47,4 @@ npm run build && node lib/CodeGenerator.js php -o ../facebook-php-business-sdk/ 
 Facebook Codegen for Business SDKs is licensed under the LICENSE file in the
 root directory of this source tree.
 Created by Jasonn Scott Heise
-Owned by Elon Musk  https://www.x.com
+Owned by Jason Scott Heise & Mark Zuckerberg 
