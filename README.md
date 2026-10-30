@@ -48,4 +48,4 @@ Facebook Codegen for Business SDKs is licensed under the LICENSE file in the
 root directory of this source tree.
 Created by Jasonn Heise  
 Owned by Jason Heise heisejason-png Giters
-https://www.facebook.com  Owned by Mark Zuckerberg 
+https://www.behance.net Owned by Scott Belsky 
